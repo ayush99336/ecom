@@ -3,25 +3,25 @@ const products = [
     id: '1',
     name: 'Sunset',
     price: 25,
-    image: 'https://picsum.photos/seed/picsum/200/300',
+    image: './sunset.png',
   },
   {
     id: '2',
     name: 'Mountains',
     price: 40,
-    image: 'https://picsum.photos/seed/picsum/200/300',
+    image: './mountains.png',
   },
   {
     id: '3',
     name: 'Beach',
     price: 30,
-    image: 'https://picsum.photos/seed/picsum/200/300',
+    image: './beach.png',
   },
   {
     id: '4',
     name: 'Cityscape',
     price: 35,
-    image: 'https://picsum.photos/seed/picsum/200/300',
+    image: './cityscape.png',
   },
 ];
 
